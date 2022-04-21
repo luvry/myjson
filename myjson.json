@@ -1,0 +1,20 @@
+{
+    "students": [
+        {
+            "firstname": "Raymart",
+            "age": 20,
+            "email": "luvryy@gmail.com"
+        },
+        {
+            "firstname": "Justine",
+            "age": 25,
+            "email": "kirito@gmail.com"
+        },
+        {
+            "firstname": "Mharian",
+            "age": 20,
+            "email": "dedeb@gmail.com"
+        }
+
+    ]
+}
